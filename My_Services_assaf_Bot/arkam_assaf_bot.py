@@ -3,7 +3,7 @@ from telebot import types
 from datetime import datetime
 import sqlite3
 
-TOKEN = "7752525254:AAGKMq3qxaX0ipSuL43a461f_63PyB_LH_w"
+TOKEN = "7752525254:AAFuFL7Ydzgpdn-NYX1PluJT3lN-iACfn2g"
 bot = telebot.TeleBot(TOKEN)
 
 CHANNELS = {
